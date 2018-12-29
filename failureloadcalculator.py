@@ -90,7 +90,7 @@ class failure:
       return True
 
 #finding of Second Moment of Inertia: The total Second Moment of Inertia (I) can be found by summing each individual I of each individual section of the cross section. I can be found by using the Parallel Axis Theorem, described by the equation (bh^3/12)+b*h*(y-ybar)^2, where b is the base of the individual section, h is the height of the section, y is the centroidal axis from the bottom, and ybar is the respective centroidal axis of the section.
- def second_moment_of_inertia(self):
+   def second_moment_of_inertia(self):
       #accum will be the sum of the Is of each individual section of the cross section
       accum=0
       #a counter will keep track of the additiong of each sections present in the cross section
