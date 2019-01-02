@@ -1,5 +1,4 @@
 #CIV102 Matboard Bridge Design Project: Failure Loads Under Baldwin Loading
-#As part of the Structures and Materials course of the Engineering Science Program at the University of Toronto,the Matboard Bridge Design Project challenges students to design a bridge that can resists a force upwards of 400 Newton under 2 different types of loading. However, this program is only applicable to loading under the Baldwin Universal Testing Machine. Using different concepts and equations taught throughout the course, students must calculate all possible failure method of their bridge and predict ultimately what load will cause their bridge to fail. Such concepts include drawing and reading Shear Force and Bending Moment diagrams, using Jourawski's equation, applying the knowledge of thin plate buckling, etc. Once the design is finalized, students must construct the bridge using the provided limited materials:1 sheet of matboard and 2 tubes of contact cement glue. After the construction of the bridge, it is then tested in a lab under a train loading and the Baldwin loading. The more force the bridge is able to resist is desired.
 
 #basic helper functions
 def square(n):
